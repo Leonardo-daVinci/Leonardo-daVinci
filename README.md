@@ -16,44 +16,28 @@
 <br/>
 
 ### Languages
-<img height="32" width="32" src="https://cdn.simpleicons.org/python/3776AB" />
-&nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/kotlin/7F52FF" />
-&nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/javascript/F7DF1E" />
-&nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/typescript/3178C6" />
-&nbsp;
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/python/3776AB" style="padding-right:10px;" />
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/kotlin/7F52FF" style="padding-right:10px;" />
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/javascript/F7DF1E" style="padding-right:10px;" />
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/typescript/3178C6" style="padding-right:10px;" />
+
+<br/>
 
 ### Frameworks
-<img height="32" width="32" src="https://cdn.simpleicons.org/tensorflow/FF6F00" />
-&nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/pytorch/EE4C2C" />
-&nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/scikitlearn/F7931E" />
-&nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/firebase/FFCA28" />
-&nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/react/#61DAFB" />
-&nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs/339933" />
-&nbsp;
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/tensorflow/FF6F00" style="padding-right:10px;" />
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/pytorch/EE4C2C" style="padding-right:10px;" />
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/scikitlearn/F7931E" style="padding-right:10px;" />
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/firebase/FFCA28" style="padding-right:10px;" />
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/react/#61DAFB" style="padding-right:10px;" />
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs/339933" style="padding-right:10px;" />
+
+<br/>
 
 ### Tools
-<img height="32" width="32" src="https://cdn.simpleicons.org/jupyter/F37626" />
-&nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/android/3DDC84" />
-&nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/googlecolab/F9AB00" />
-&nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/anaconda/44A833" />
-&nbsp;
-
-<img height="32" width="32" src="https://cdn.simpleicons.org/git/F05032" />
-&nbsp;&nbsp;
-
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/jupyter/F37626" style="padding-right:10px;" />
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/android/3DDC84" style="padding-right:10px;" />
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/googlecolab/F9AB00" style="padding-right:10px;" />
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/anaconda/44A833" style="padding-right:10px;" />
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/git/F05032" style="padding-right:10px;" />
 
 [Leonardo-daVinci]: https://leonardo-davinci.github.io
-[linkedin]: https://www.linkedin.com/in/akshit-keoliya
-[twitter]: https://twitter.com/AkshitAbhay
-[instagram]: https://www.instagram.com/machine.learning.chef
