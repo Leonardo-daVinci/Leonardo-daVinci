@@ -1,10 +1,10 @@
 # Hi there, I'm Akshit Abhay Keoliya - aka [Leonardo-daVinci] 👋 
 
-## I'm a Machine Learning Enthusiast and Avid Developer!
+## I'm a proactive Machine Learning Engineer and Avid Developer!
 
 - 🌱 Masters in Computer Science - Artificial Intelligence at University of Southern California, LA.
 - 🌎 I’m looking to create real-life projects and employ the skills to make tangible solutions. 
-- 🥅 2023 Goals: Create content on Machine Learning.
+- 🥅 2024 Goals: Create content on latest advancements in Machine Learning.
 - ⚡ Fun fact: I'm learning Muay Thai and love to read sci-fi thriller novels.
 
 ### Connect with me:
