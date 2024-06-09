@@ -2,14 +2,14 @@
 
 ## I'm a proactive Machine Learning Engineer and Avid Developer!
 
-- 🌱 Masters in Computer Science - Artificial Intelligence at University of Southern California, LA.
+- 🌱 Masters in Computer Science - Artificial Intelligence from University of Southern California, LA.
 - 🌎 I’m looking to create real-life projects and employ the skills to make tangible solutions. 
 - 🥅 2024 Goals: Create content on latest advancements in Machine Learning.
 - ⚡ Fun fact: I'm learning Muay Thai and love to read sci-fi thriller novels.
 
 ### Connect with me:
 [<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/linkedin/0A66C2" style="padding-right:10px;"/>](https://www.linkedin.com/in/akshit-keoliya)
-[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/twitter/1DA1F2" style="padding-right:10px;"/>](https://twitter.com/AkshitAbhay)
+[<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/x/000000" style="padding-right:10px;"/>](https://twitter.com/AkshitAbhay)
 [<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/instagram/E4405F" style="padding-right:10px;"/>](https://www.instagram.com/machine.learning.chef)
 
 <br/>
